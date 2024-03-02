@@ -1,0 +1,8 @@
+POST  http://localhost:3333/videos
+content-type: application/json
+
+{
+  "title": "Video node",
+  "description": "Esse é o primeiro video",
+  "duration": 180
+}
